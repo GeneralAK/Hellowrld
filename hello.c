@@ -2,6 +2,8 @@
 
 int main()
 {
-prtintf("master branch\n");
+printf("b2 branch\n");
+printf("addition");
+  
 return 0;
 }
