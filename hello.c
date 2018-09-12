@@ -2,6 +2,6 @@
 
 int main()
 {
-prtintf("master branch\n");
+printf("master branch\n");
 return 0;
 }
